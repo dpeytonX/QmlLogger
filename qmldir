@@ -1,2 +1,2 @@
 module QmlLogger
-Logger.js 2.0 Console
+Console 2.0 Logger.js
