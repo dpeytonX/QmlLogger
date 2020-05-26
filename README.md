@@ -16,4 +16,20 @@ This project is licensed under the MIT License.
 <p>
 https://github.com/prplmnky/QmlLogger.git
 
-$$FOOTER$$
+<h2>Contribute</h2>
+
+This application is open source,  but please do contribute to active development!
+<p>
+You can contribute in one of two ways:
+<ul>
+<li>Fork this branch and make pull request! (Please create an issue ticket first, though)
+<li>Donate Bitcoins
+</ul>
+<p>
+<img src="bitcoinaddy.png" />
+<p>
+<code>3NeDGutmC7hc5Dv2cUX8YcvPWaUXZm3KAF</code>
+
+
+<br>
+Copyright ©220 Dametrious Peyton. All Rights Reserved
