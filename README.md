@@ -32,4 +32,4 @@ You can contribute in one of two ways:
 
 
 <br>
-Copyright $copy;2020 Dametrious Peyton. All Rights Reserved
+Copyright &copy;2020 Dametrious Peyton. All Rights Reserved
